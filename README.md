@@ -43,3 +43,11 @@
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23FF9633.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
+
+![mzhrifat  GitHub stats](https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mzhrifat&theme=radical)](https://git.io/streak-stats)
+
+
+

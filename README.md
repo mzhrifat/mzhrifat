@@ -45,12 +45,6 @@
 
 
   
-
-
-![mzhrifat  GitHub stats](https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzhrifat&langs_count=6&layout=compact&theme=radical)
-
  
 </p>
 

@@ -62,9 +62,6 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mzhrifat&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzhrifatn&theme=radical&hide_border=true"/>
-</p>
 
 
 

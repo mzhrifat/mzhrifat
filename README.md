@@ -42,9 +42,6 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23FF9633.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  ![mzhrifat  GitHub stats](https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzhrifat&langs_count=6&layout=compact&theme=radical)
 </p>
 
 ![mzhrifat  GitHub stats](https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical)

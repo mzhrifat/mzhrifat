@@ -26,8 +26,8 @@
 
 
 ## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/M.Z%20H%20RIFAT)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/M.Z%20H%20Rifat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/M.Z-H-RIFAT)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/M.Z-H-Rifat)
 
 ## ⚡ Languages and Tools:
 <p align="left">
@@ -45,7 +45,7 @@
 </p>
 
 ![mzhrifat  GitHub stats](https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzhrifat&layout=compact&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzhrifat&langs_count=6&layout=compact&theme=radical)
 
 

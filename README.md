@@ -53,7 +53,11 @@
 </p>
 </p>
 
-
+<div align="center">
+  <div> 
+    <b>470</b> </br> Total Contributions </br> Dec 30, 2021 - Present
+  </div>
+</div>
 
 
 

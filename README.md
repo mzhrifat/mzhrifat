@@ -48,12 +48,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzhrifat&langs_count=6&layout=compact&theme=radical)
 
-  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mzhrifat&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=737373&background=00000000" />
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=mzhrifat&theme=radical)](https://git.io/streak-stats)
-
-</p>
-
+ 
 </p>
 
 

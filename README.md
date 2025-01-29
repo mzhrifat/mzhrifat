@@ -44,11 +44,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23FF9633.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 
 
-   <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mzhrifat&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=737373&background=00000000" />
-   
-</p>
-
+  
 
 
 ![mzhrifat  GitHub stats](https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical)

@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%2361DAFB.svg?style=for-the-badge&logo=python&logoColor=white"
+  <img src="https://img.shields.io/badge/Python-%2361DAFB.svg?style=for-the-badge&logo=python&logoColor=Black"
 </p>

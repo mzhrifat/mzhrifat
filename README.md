@@ -66,16 +66,6 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzhrifatn&theme=radical&hide_border=true"/>
 </p>
 
-<details>
- <summary>🏆 Github Profile Trophy</summary>
- </br>
- <p align="center">
-  <a href="https://github.com/mzhrifat">
-   <img src="https://github-profile-trophy.vercel.app/?username=mzhrifatn&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
-
 
 
 

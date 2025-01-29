@@ -51,13 +51,14 @@
   <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mzhrifat&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=737373&background=00000000" />
 </p>
-</p>
-
 <div align="center">
   <div> 
-    <b>470</b> </br> Total Contributions </br> Dec 30, 2021 - Present
+    <b>470</b> </br> Total Contributions </br> Dec 30, 2023- Present
   </div>
 </div>
+
+</p>
+
 
 
 

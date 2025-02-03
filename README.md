@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 <!-- - I'm aspiring 🔭️ Web Developer currently learning 🌱 **ReactNative**. -->
 -  I’m currently learning **Full Stack Web Development**
@@ -50,7 +50,7 @@
 
 
 
-#<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
 
   <summary>📊 Github Readme Stats</summary>
  </br>

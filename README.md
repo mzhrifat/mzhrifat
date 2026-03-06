@@ -1,7 +1,9 @@
-<!-- Banner -->
+<!-- Banner Cover Style -->
 <p align="center">
-  <img src="/mnt/data/a_banner_style_digital_graphic_features_rifat_s_po.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/mzhrifat/banner/main/my_banner.png" 
+       style="width: 100%; max-height: 220px; object-fit: cover;" />
 </p>
+
 
 <!-- Profile Views -->
 <p align="left">

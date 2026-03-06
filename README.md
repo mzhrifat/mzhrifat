@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mzhrifat/banner/main/my_banner.png" 
-       width="100%" 
+       width="70%" 
        height="auto" 
        style="max-height: 250px; object-fit: cover; border-radius: 6px;" />
 </p>
@@ -65,15 +65,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/mzhrifat">
-    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical&count_private=true" />
-  </a>
-  <a href="https://github.com/mzhrifat/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mzhrifat&layout=compact&theme=radical&langs_count=6" />
-  </a>
+<a href="https://github.com/mzhrifat">
+<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mzhrifat&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/mzhrifat/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mzhrifat&layout=compact&theme=radical&langs_count=6" />
+</a>
 </p>
-
----
 
 ## 🐍 Contribution Snake
 <p align="center">

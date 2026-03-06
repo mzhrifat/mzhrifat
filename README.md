@@ -1,18 +1,20 @@
-<!-- Banner Cover Style -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mzhrifat/banner/main/my_banner.png" 
-       style="width: 100%; max-height: 220px; object-fit: cover;" />
-</p>
-
-
-<!-- Profile Views -->
-<p align="left">
+<!-- Profile Views (Real) -->
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=mzhrifat&label=Profile%20views&color=0e75b6&style=flat" alt="mzhrifat" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mzhrifat/banner/main/my_banner.png" 
+       width="100%" 
+       height="auto" 
+       style="max-height: 250px; object-fit: cover; border-radius: 6px;" />
+</p>
+
+
+  
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rifat;Aspiring+Software+Engineer;Full+Stack+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'MZH+Rifat;Full+Stack+Web+Developer" />
 </p>
 
 <!-- About Me & Developer GIF -->

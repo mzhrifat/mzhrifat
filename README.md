@@ -25,7 +25,8 @@
 - 🌱 I’m currently learning **Full Stack Web Development**  
 - 💻 Passionate about **Programming & Technologies**  
 - 🎯 Goal: Become a **Software Engineer**  
-- 📫 Email: **mzhripat@gmail.com**  
+- 📫 Email: **mzhripat@gmail.com**
+- Contact:+8801624226285
 - 🔭 Always exploring **New Tools & Frameworks**
 
 ## ⚡ Languages and Tools

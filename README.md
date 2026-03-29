@@ -1,7 +1,4 @@
-<!-- Profile Views (Real) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mzhrifat&label=Profile%20views&color=0e75b6&style=flat" alt="mzhrifat" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mzhrifat/banner/main/my_banner.png" 

@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzhrifat&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'MZH+Rifat;Full+Stack+Web+Developer" />

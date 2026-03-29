@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzhrifat&label=Visitors&color=blueviolet&style=for-the-badge" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mzhrifat&label=Views&color=blue&style=for-the-badge" />
 </p>
 <!-- Typing Animation -->
 <p align="center">

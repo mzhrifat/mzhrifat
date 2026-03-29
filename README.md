@@ -1,14 +1,4 @@
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mzhrifat/banner/main/my_banner.png" 
-       width="70%" 
-       height="auto" 
-       style="max-height: 250px; object-fit: cover; border-radius: 6px;" />
-</p>
-
-
-  
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'MZH+Rifat;Full+Stack+Web+Developer" />
